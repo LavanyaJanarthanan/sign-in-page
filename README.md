@@ -9,7 +9,7 @@ This project focuses on form structure, styling, and responsive design.
 
 ## 📂 Project Structure
 sign-in-page/ 
-├── pro2.html 
+├── index.html 
 └── style.css
 
 ## 🌐 Live Demo
