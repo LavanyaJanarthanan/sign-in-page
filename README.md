@@ -9,11 +9,11 @@ This project focuses on form structure, styling, and responsive design.
 
 ## 📂 Project Structure
 sign-in-page/ 
-├── index.html 
+├── pro2.html 
 └── style.css
 
 ## 🌐 Live Demo
-👉 [Click here to view the live site](https://your-username.github.io/sign-in-page/)
+👉 [Click here to view the live site](https://LavanyaJanarthanan.github.io/sign-in-page/)
 
 ## 🛠️ Tech Used
 - HTML5
